@@ -238,6 +238,7 @@ I worked across the complete product development lifecycle, taking responsibilit
 More documentation, screenshots, architecture diagrams, and technical details will be added as the project evolves.
 
 ---
+<img width="1254" height="1254" alt="ChatGPT Image Jul 31, 2026, 11_14_20 AM" src="https://github.com/user-attachments/assets/2d47e87e-56b9-47b0-a17b-ca79bf5f1843" />
 
 <p align="center">
   🌱 <strong>Grow gratitude. Grow together.</strong> 💕
