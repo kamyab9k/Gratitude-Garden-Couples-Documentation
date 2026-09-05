@@ -15,7 +15,7 @@
 
 # 1. 📱 App Overview
 
-**Gratitude Garden – Couples** is a mobile application designed to help couples build a habit of appreciation by turning every gratitude into a beautiful plant in their shared garden.
+**Gratitude Garden – Couples** is a mobile application designed to help couples build a habit of appreciation by turning every gratitude into a beautiful plant in their garden.
 
 Each gratitude creates a new plant, allowing couples to visually see their relationship garden grow over time.
 
