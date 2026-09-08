@@ -3,8 +3,11 @@
 > A digital garden where couples grow their relationship through gratitude, memories, and meaningful moments.
 > 
 <p align="center">
-<img width="1584" height="396" alt="Linkedin_coverphoto" src="https://github.com/user-attachments/assets/4c08ff4b-9011-44db-8a4b-bf91e362ddcf" alt="Gratitude Garden – Couples" width="100%"/>
-</p>
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 7, 2026, 08_55_46 PM" src="https://github.com/user-attachments/assets/d553690c-e01a-4842-ac7c-d037cd2847b0" />
+
+  
+
 
 
 <p align="center">
@@ -18,17 +21,6 @@
 **Gratitude Garden – Couples** is a mobile application designed to help couples build a habit of appreciation by turning every gratitude into a beautiful plant in their garden.
 
 Each gratitude creates a new plant, allowing couples to visually see their relationship garden grow over time.
-
-## 🎨 UI/UX Preview
-
-### App Mockups
-
-<!-- Replace these image paths with your actual screenshots -->
-
-<p align="center">
-  <img width="360" height="800" alt="ChatGPT Image Aug 3, 2026, 05_35_35 PM" src="https://github.com/user-attachments/assets/414a94c9-0cf4-49a5-8239-a316835c83b7" width="250"/>
-
-</p>
 
 
 
@@ -238,7 +230,8 @@ I worked across the complete product development lifecycle, taking responsibilit
 More documentation, screenshots, architecture diagrams, and technical details will be added as the project evolves.
 
 ---
-<img width="1254" height="1254" alt="ChatGPT Image Jul 31, 2026, 11_14_20 AM" src="https://github.com/user-attachments/assets/2d47e87e-56b9-47b0-a17b-ca79bf5f1843" />
+<img width="1584" height="396" alt="Linkedin_coverphoto" src="https://github.com/user-attachments/assets/4c08ff4b-9011-44db-8a4b-bf91e362ddcf" alt="Gratitude Garden – Couples" width="100%"/>
+</p>
 
 <p align="center">
   🌱 <strong>Grow gratitude. Grow together.</strong> 💕
