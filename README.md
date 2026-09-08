@@ -22,7 +22,7 @@
 
 Each gratitude creates a new plant, allowing couples to visually see their relationship garden grow over time.
 
-
+Partners can view and explore each other's gardens, revisit meaningful memories, and grow their shared collection of gratitude together.
 
 > More UI/UX screens and design details will be added to the documentation.
 
@@ -92,7 +92,7 @@ Designed and implemented the backend using **Java & Spring Boot**.
 Responsibilities included:
 
 - Designing the backend architecture and service structure.
-- Developing RESTful APIs for mobile applications.
+- Developing **30+ RESTful APIs** for mobile applications.
 - Implementing user and couple management.
 - Building partner invitation workflows.
 - Implementing gratitude and plant creation logic.
@@ -189,9 +189,9 @@ Responsibilities included:
               │  Authentication                │
               │  Couple Management             │
               │  Gratitude & Plants            │
-              │  Memories                       │
-              │  Subscriptions                  │
-              │  Notifications                  │
+              │  Memories                      │
+              │  Subscriptions                 │
+              │  Notifications                 │
               └───────────────┬────────────────┘
                               │
                               ▼
@@ -201,7 +201,7 @@ Responsibilities included:
                     │ Users            │
                     │ Couples          │
                     │ Gratitudes       │
-                    │ Plants           │
+                    │ Plants            │
                     │ Memories         │
                     │ Subscriptions    │
                     │ Notifications    │
@@ -223,13 +223,38 @@ I worked across the complete product development lifecycle, taking responsibilit
 
 ---
 
-## 🚀 Project Status
+# 3. 🚀 Join the Waitlist
+
+Gratitude Garden – Couples is currently being developed, and the MVP is opening its first early-access waitlist.
+
+**Want to be one of the first couples to try it?**
+
+<p align="center">
+  <a href="https://kamyab9k.github.io/Gratitude-Garden-website/">
+    <strong>🌱 Join the Waitlist</strong>
+  </a>
+</p>
+
+---
+
+# 4. 📣 Looking for a Marketer
+
+I'm looking for a **marketer** interested in helping grow Gratitude Garden and take the product from MVP to its first users.
+
+If you're interested in **marketing, growth, social media, content, or user acquisition** and would like to work on the project, feel free to reach out:
+
+**Email:** k.khosravi.dev@gmail.com
+
+---
+
+## 📌 Project Status
 
 **Gratitude Garden – Couples** is currently being developed with the MVP focused on creating a shared, engaging, and meaningful gratitude experience for couples.
 
 More documentation, screenshots, architecture diagrams, and technical details will be added as the project evolves.
 
 ---
+
 <img width="1584" height="396" alt="Linkedin_coverphoto" src="https://github.com/user-attachments/assets/4c08ff4b-9011-44db-8a4b-bf91e362ddcf" alt="Gratitude Garden – Couples" width="100%"/>
 </p>
 
